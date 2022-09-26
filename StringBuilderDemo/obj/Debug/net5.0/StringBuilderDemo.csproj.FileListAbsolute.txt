@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\StringBuilderDemo.exe
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\StringBuilderDemo.deps.json
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\StringBuilderDemo.runtimeconfig.json
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\StringBuilderDemo.dll
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\ref\StringBuilderDemo.dll
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\bin\Debug\net5.0\StringBuilderDemo.pdb
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.dll
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\ref\StringBuilderDemo.dll
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.pdb
+C:\Users\peter\source\repos\StringBuilderDemo\StringBuilderDemo\obj\Debug\net5.0\StringBuilderDemo.genruntimeconfig.cache
